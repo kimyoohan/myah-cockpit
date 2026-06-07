@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# App runtime artifacts
+settings.json
+.myah-chrome-profile/
+캡처/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Per-project MCP config the app auto-generates (don't commit into this repo)
+.mcp.json
+
+# local publishing helper (not part of the app)
+publish.bat
